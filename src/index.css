@@ -1,0 +1,45 @@
+@import "tailwindcss";
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+
+:root {
+    --main-color: #212121;
+    --secondary-color: #aeff46;
+    --boldy-font: "Black Ops One", system-ui;
+    --text-font: "Roboto Mono", monospace;
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: 200% 0;
+    }
+
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+.swal-wisp-popup {
+    background: #181818 !important;
+    border: 1px solid rgba(174, 255, 70, 0.4) !important;
+    border-radius: 16px !important;
+    font-family: "Roboto Mono", monospace !important;
+}
+
+.swal-wisp-title {
+    color: #ffffff !important;
+    font-size: 18px !important;
+}
+
+.swal-wisp-confirm {
+    background: #aeff46 !important;
+    color: #212121 !important;
+    border-radius: 10px !important;
+    font-weight: 600 !important;
+    box-shadow: none !important;
+}
+
+.swal-wisp-confirm:hover {
+    background: transparent !important;
+    color: #aeff46 !important;
+    border: 1px solid #aeff46 !important;
+}
