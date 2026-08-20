@@ -37,7 +37,7 @@ WISP is a social feed app where you can share posts, follow friends, and interac
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/wisp.git
+git clone https://github.com/Ahmed-Alhossiny/wisp.git
 cd wisp
 npm install
 ```
