@@ -91,4 +91,4 @@ src/
 ## Author
 
 **Ahmed Alhossiny**
-[ahmed.alhossiny.32@gmail.com](mailto:ahmed.alhossiny.32@gmail.com)
+[ahmed.alhossiny.32@gmail.com](mailto:ahmedalhossiny.dev@gmail.com)
